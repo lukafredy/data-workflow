@@ -1,0 +1,63 @@
+2023-12-02 11:48:40,041 - ERROR: Fout bij het ophalen van data: 400 Client Error:  for url: https://api.football-data.org/v2/competitions/PL/matches
+2023-12-02 11:48:44,089 - ERROR: Fout bij het ophalen van data: 400 Client Error:  for url: https://api.football-data.org/v2/competitions/PL/matches
+2023-12-02 11:48:45,497 - ERROR: Fout bij het ophalen van data: 400 Client Error:  for url: https://api.football-data.org/v2/competitions/PL/matches
+2023-12-02 11:51:06,080 - ERROR: Fout bij het ophalen van data: 400 Client Error:  for url: https://api.football-data.org/v2/competitions/PL/matches
+2023-12-02 11:51:09,513 - ERROR: Fout bij het ophalen van data: 400 Client Error:  for url: https://api.football-data.org/v2/competitions/PL/matches
+2023-12-02 11:51:12,373 - ERROR: Fout bij het ophalen van data: 400 Client Error:  for url: https://api.football-data.org/v2/competitions/PL/matches
+2023-12-08 13:50:10,493 - ERROR: Onverwachte fout: name 'dateTime' is not defined
+2023-12-08 13:51:37,291 - ERROR: Onverwachte fout: name 'verwijder_vorige_json' is not defined
+2023-12-08 13:52:33,222 - ERROR: Onverwachte fout: name 'verwijder_vorige_json' is not defined
+Script uitgevoerd op: 2023-12-08 15:11:43.236302
+Script uitgevoerd op: 2023-12-08 15:34:02.701001
+Script uitgevoerd op: 2023-12-08 15:36:02.631414
+Script uitgevoerd op: 2023-12-08 15:38:02.515194
+Script uitgevoerd op: 2023-12-08 15:40:02.539944
+Script uitgevoerd op: 2023-12-08 15:42:02.366467
+Script uitgevoerd op: 2023-12-08 15:44:02.462126
+Script uitgevoerd op: 2023-12-08 15:46:02.922015
+Script uitgevoerd op: 2023-12-08 15:48:03.010001
+Script uitgevoerd op: 2023-12-08 15:50:02.286437
+Script uitgevoerd op: 2023-12-08 15:52:02.324074
+Script uitgevoerd op: 2023-12-08 15:54:02.643759
+Script uitgevoerd op: 2023-12-08 15:56:03.455235
+Script uitgevoerd op: 2023-12-08 15:58:02.781557
+Script uitgevoerd op: 2023-12-08 16:00:02.940409
+Script uitgevoerd op: 2023-12-08 16:02:02.247225
+Script uitgevoerd op: 2023-12-08 16:04:02.522399
+Script uitgevoerd op: 2023-12-08 16:05:10.555714
+Script uitgevoerd op: 2023-12-08 16:06:02.502434
+Script uitgevoerd op: 2023-12-08 16:08:02.685322
+Script uitgevoerd op: 2023-12-08 16:10:02.581288
+Script uitgevoerd op: 2023-12-08 16:12:02.460493
+Script uitgevoerd op: 2023-12-08 16:14:02.725104
+Script uitgevoerd op: 2023-12-08 16:16:03.007734
+Script uitgevoerd op: 2023-12-08 16:18:02.216740
+Script uitgevoerd op: 2023-12-08 16:20:02.195048
+Script uitgevoerd op: 2023-12-08 16:22:02.015463
+Script uitgevoerd op: 2023-12-08 16:24:02.360887
+Script uitgevoerd op: 2023-12-08 16:26:02.591914
+Script uitgevoerd op: 2023-12-08 16:28:02.574933
+Script uitgevoerd op: 2023-12-08 16:30:03.347300
+Script uitgevoerd op: 2023-12-08 16:32:02.735416
+Script uitgevoerd op: 2023-12-08 16:34:02.872989
+Script uitgevoerd op: 2023-12-08 16:36:03.099693
+Script uitgevoerd op: 2023-12-08 16:38:01.953373
+Script uitgevoerd op: 2023-12-08 16:40:03.080804
+Script uitgevoerd op: 2023-12-08 16:42:01.965556
+Script uitgevoerd op: 2023-12-08 16:44:02.080801
+Script uitgevoerd op: 2023-12-08 16:46:02.056074
+Script uitgevoerd op: 2023-12-08 16:48:01.864838
+Script uitgevoerd op: 2023-12-08 16:50:02.104101
+Script uitgevoerd op: 2023-12-08 16:52:02.131143
+Script uitgevoerd op: 2023-12-08 16:54:02.312166
+Script uitgevoerd op: 2023-12-08 16:56:02.319929
+Script uitgevoerd op: 2023-12-08 16:58:02.210630
+Script uitgevoerd op: 2023-12-08 17:00:02.853199
+Script uitgevoerd op: 2023-12-08 17:02:02.012526
+Script uitgevoerd op: 2023-12-08 17:04:02.326181
+Script uitgevoerd op: 2023-12-08 17:06:02.912187
+Script uitgevoerd op: 2023-12-08 17:08:03.569076
+Script uitgevoerd op: 2023-12-08 17:10:02.884176
+Script uitgevoerd op: 2023-12-08 17:12:04.945202
+Script uitgevoerd op: 2023-12-08 17:14:03.395527
+Script uitgevoerd op: 2023-12-08 17:16:02.977457
