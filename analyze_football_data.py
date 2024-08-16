@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import os
 
 # Settings
-data_dir = "./data"
+data_dir = "./data"  # Gebruik de huidige directory
 csv_file = os.path.join(data_dir, "football_transformed_data.csv")
 output_image = os.path.join(data_dir, "match_scores.png")
 

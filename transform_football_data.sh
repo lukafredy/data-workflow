@@ -1,10 +1,10 @@
 #!/bin/bash
-# transform_football_data.sh -- Script to transform raw football data into a structured CSV format
+# transform_football_data.sh -- Transform raw football data into a structured CSV format
 # author: Luka de vreese <luka.devreese@student.hogent.be>
 
 # Settings
 DATA_DIR="./data"
-RAW_DATA_FILE=$(ls -t ${DATA_DIR}/football-data-*.csv | head -1)
+RAW_DATA_FILE=$(ls -t "${DATA_DIR}/football_raw_data.csv" | head -n 1)
 TRANSFORMED_DATA_FILE="${DATA_DIR}/football_transformed_data.csv"
 LOG_FILE="${DATA_DIR}/transform_football_data.log"
 
