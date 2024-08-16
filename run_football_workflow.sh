@@ -44,4 +44,3 @@ git commit -m "Update data workflow with new data and analysis results"
 git push origin main
 
 echo "Workflow complete. Report generated at ./data/football_report.md"
-
